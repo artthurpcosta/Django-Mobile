@@ -1,0 +1,42 @@
+# Byte-compiled / C extensions
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Dependências e empacotamento
+build/
+dist/
+eggs/
+*.egg-info/
+MANIFEST
+
+# Logs e testes
+*.log
+pip-log.txt
+htmlcov/
+.tox/
+.coverage
+.pytest_cache/
+
+# Bancos de dados locais
+*.sqlite3
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
